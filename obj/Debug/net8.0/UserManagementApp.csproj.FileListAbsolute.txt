@@ -35,8 +35,6 @@ C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\Micro
 C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\MimeKit.dll
 C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\Mono.TextTemplating.dll
-C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\Npgsql.dll
-C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\System.CodeDom.dll
 C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 C:\Users\Asus\Desktop\UserManagementApp\UserManagementApp\bin\Debug\net8.0\System.Composition.Convention.dll
